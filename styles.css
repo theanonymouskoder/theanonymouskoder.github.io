@@ -6,7 +6,7 @@
   flex-grow: 1;
   flex-shrink: 1;
 }
-.img-container img {
+.top > img.profile-pic {
   border-radius: 50%;
   max-width: 100px;
 }
