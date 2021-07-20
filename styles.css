@@ -6,7 +6,7 @@
   flex-grow: 1;
   flex-shring: 1;
 }
-.img-container img {
+.img-containter img {
   border-radius: 50%;
   max-width: 100px;
 }
