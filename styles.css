@@ -1,0 +1,12 @@
+.top {
+  display: flex;
+  flex-direction: row;
+}
+.title-container {
+  flex-grow: 1;
+  flex-shring: 1;
+}
+.img-container {
+  border-radius: 50%;
+  width: 200px;
+}
